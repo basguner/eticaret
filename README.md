@@ -1,3 +1,3 @@
 # eticaret
 e ticaret
-
+ticaret
